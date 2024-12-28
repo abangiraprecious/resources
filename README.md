@@ -1,3 +1,3 @@
 ### Design 
 Colors:
-https://coolors.co/
+[Coolors.Co](https://coolors.co/)
