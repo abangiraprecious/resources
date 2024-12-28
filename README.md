@@ -10,7 +10,8 @@ Colors:
 ### Royalty Free Images
 [Pixabay](https://pixabay.com/)
 
-
+### Design Hacks
+[Logo Sizes](https://looka.com/blog/logo-size-guidelines/)
 
 
 
