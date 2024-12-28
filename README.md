@@ -1,6 +1,8 @@
 ### Design 
 Colors:
 [Coolors.Co](https://coolors.co/)
+[SVG](https://www.svgrepo.com/)
+[SVG](https://uxwing.com/)
 
 
 ### Websites
