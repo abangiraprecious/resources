@@ -1,44 +1,31 @@
-# Resources Guide
+# Resources Hub
 
-This document organizes useful resources for various topics, including design, royalty-free images, mockups, and my many miscellaneous interests. Each section contains curated links to websites and tools for just about anything.
----
-
-## Design Resources
-
-### Color Palettes
-- [Coolors](https://coolors.co/): Create and explore color schemes.
-
-### Icons and SVGs
-- [SVG Repo](https://www.svgrepo.com/): Find high-quality SVG icons.
-- [UXWing](https://uxwing.com/): Free and customizable SVG icons.
-
-### Design Inspiration
-- [Es Devlin](https://esdevlin.com/): Explore design and artistic works.
-
-### Design Hacks
-- [Logo Sizes Guide](https://looka.com/blog/logo-size-guidelines/): Learn the right dimensions for logos across various platforms.
+Welcome to the "Resources Hub!" hihi.
+My one-stop guide (and yours if you'd like) to various resources curated and organized into different categories. Each category links to a separate Markdown file where you can find detailed lists of tools, websites, and references for that specific topic.
 
 ---
 
-## Royalty-Free Images
-- [Pixabay](https://pixabay.com/): A library of free stock photos, videos, and music.
+## Categories
+
+### [Design Resources](design.md)
+Explore tools and inspirations for design, including color palettes, mockups, SVGs, and more.
+
+### [Books & Literature](books.md)
+Discover resources for readers and writers, including free audiobooks and literary guides.
+
+### [Programming Resources](programming.md)
+Find coding tutorials, tools, and references for programmers of all levels.
+
+### [Learning & Productivity](learning.md)
+Enhance your skills and productivity with curated learning materials and tips.
 
 ---
 
-## Mockups
-- [Mockup Tree](https://mockuptree.com/free/category/jar-mockup/): A collection of free mockup templates.
+## How to Use
+1. Click on a category link to navigate to its dedicated resource page.
+2. Explore the tools and references tailored to your interests or needs.
+3. Use this hub as a bookmark for quick access to all your favorite resources.
 
 ---
 
-## Miscellaneous Resources
-
-### Audiobooks
-- [Free Audiobooks](https://galaxyaudiobook.com/): Offers audiobooks (Note: Check the site's safety).
-- [Getting Things Done Audiobook](https://galaxyaudiobook.com/getting-things-done_audio0001_221101/): Access the popular productivity book in audio format.
-
-### Literature and Writing
-- [Literary Ladies Guide](https://www.literaryladiesguide.com/): A resource for readers and writers interested in women's literature.
-
-
-
-
+Feel free to suggest updates or add more categories to keep this hub growing!
