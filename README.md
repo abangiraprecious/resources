@@ -1,7 +1,6 @@
 # Resources Guide
 
-This document organizes useful resources for various topics, including design, royalty-free images, mockups, and miscellaneous interests. Each section contains curated links to websites and tools that can help you with your creative and productivity needs.
-
+This document organizes useful resources for various topics, including design, royalty-free images, mockups, and my many miscellaneous interests. Each section contains curated links to websites and tools for just about anything.
 ---
 
 ## Design Resources
