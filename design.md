@@ -1,7 +1,4 @@
-# Resources Guide
 
-This document organizes useful resources for various topics, including design, royalty-free images, mockups, and my many miscellaneous interests. Each section contains curated links to websites and tools for just about anything.
----
 
 ## Design Resources
 
