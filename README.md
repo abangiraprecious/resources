@@ -17,7 +17,7 @@ resources for readers and writers, including free audiobooks and literary guides
 coding tutorials, tools, and references for programmers of all levels.
 
 ### [Learning & Productivity](learning.md)
-Enhance your skills and productivity with curated learning materials and tips.
+productivity, basically!
 
 ---
 
