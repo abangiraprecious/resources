@@ -11,7 +11,7 @@ My one-stop guide (and yours if you'd like) to various resources curated and org
 tools and inspirations for design, including color palettes, mockups, SVGs, and more.
 
 ### [Books & Literature](books.md)
-Discover resources for readers and writers, including free audiobooks and literary guides.
+resources for readers and writers, including free audiobooks and literary guides.
 
 ### [Programming Resources](programming.md)
 Find coding tutorials, tools, and references for programmers of all levels.
