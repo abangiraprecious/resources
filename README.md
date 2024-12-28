@@ -1,42 +1,45 @@
-### Design 
-Colors:
-[Coolors.Co](https://coolors.co/)
-[SVG](https://www.svgrepo.com/)
-[SVG](https://uxwing.com/)
+# Resources Guide
 
-### Websites
-[Devlin](https://esdevlin.com/)
+This document organizes useful resources for various topics, including design, royalty-free images, mockups, and miscellaneous interests. Each section contains curated links to websites and tools that can help you with your creative and productivity needs.
 
-### Royalty Free Images
-[Pixabay](https://pixabay.com/)
+---
+
+## Design Resources
+
+### Color Palettes
+- [Coolors](https://coolors.co/): Create and explore color schemes.
+
+### Icons and SVGs
+- [SVG Repo](https://www.svgrepo.com/): Find high-quality SVG icons.
+- [UXWing](https://uxwing.com/): Free and customizable SVG icons.
+
+### Design Inspiration
+- [Es Devlin](https://esdevlin.com/): Explore design and artistic works.
 
 ### Design Hacks
-[Logo Sizes](https://looka.com/blog/logo-size-guidelines/)
+- [Logo Sizes Guide](https://looka.com/blog/logo-size-guidelines/): Learn the right dimensions for logos across various platforms.
 
-### Mockups
-[Mockup Tree](https://mockuptree.com/free/category/jar-mockup/)
+---
 
+## Royalty-Free Images
+- [Pixabay](https://pixabay.com/): A library of free stock photos, videos, and music.
 
+---
 
+## Mockups
+- [Mockup Tree](https://mockuptree.com/free/category/jar-mockup/): A collection of free mockup templates.
 
+---
 
+## Miscellaneous Resources
 
+### Audiobooks
+- [Free Audiobooks](https://galaxyaudiobook.com/): Offers audiobooks (Note: Check the site's safety).
+- [Getting Things Done Audiobook](https://galaxyaudiobook.com/getting-things-done_audio0001_221101/): Access the popular productivity book in audio format.
 
-
-
-
-
-
-
-
-
-
-##### Misc. (not design related)
-[Free Audiobooks (I don't know how safe it is tho...)](https://galaxyaudiobook.com/)
-
-[Literary Ladies Guide](https://www.literaryladiesguide.com/)
+### Literature and Writing
+- [Literary Ladies Guide](https://www.literaryladiesguide.com/): A resource for readers and writers interested in women's literature.
 
 
-[Getting Things Done](https://galaxyaudiobook.com/getting-things-done_audio0001_221101/)
 
 
