@@ -8,7 +8,7 @@ My one-stop guide (and yours if you'd like) to various resources curated and org
 ## Categories
 
 ### [Design Resources](design.md)
-Explore tools and inspirations for design, including color palettes, mockups, SVGs, and more.
+tools and inspirations for design, including color palettes, mockups, SVGs, and more.
 
 ### [Books & Literature](books.md)
 Discover resources for readers and writers, including free audiobooks and literary guides.
