@@ -14,7 +14,7 @@ tools and inspirations for design, including color palettes, mockups, SVGs, and 
 resources for readers and writers, including free audiobooks and literary guides.
 
 ### [Programming Resources](programming.md)
-Find coding tutorials, tools, and references for programmers of all levels.
+coding tutorials, tools, and references for programmers of all levels.
 
 ### [Learning & Productivity](learning.md)
 Enhance your skills and productivity with curated learning materials and tips.
